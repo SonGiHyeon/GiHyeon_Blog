@@ -185,7 +185,7 @@ Ex) 조선시대의 실물화폐: ‘쌀’
 제네시스 블록 안에는 특별한 메세지가 있었다.
 
     “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”
-    => The Times 2009/01/03 영국 재무주 장관의 은행에 대한 두 번째 구제금융
+    => The Times 2009/01/03 영국 재무부 장관의 은행에 대한 두 번째 구제금융
 
 위의 메세지는 다음과 같은 의미를 내포했을 것으로 추측된다.
 
